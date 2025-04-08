@@ -2,6 +2,10 @@ import streamlit as st
 import joblib
 import numpy as np
 import pandas as pd
+!pip install setuptools
+!pip install --upgrade pip
+
+
 
 # Set app title
 st.title('📈 Sales Prediction App')
